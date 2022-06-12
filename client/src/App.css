@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.Form input {
+
+  width: 400 px;
+  height: 200 px;
+}
